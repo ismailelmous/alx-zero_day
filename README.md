@@ -1,2 +1,1 @@
-My first readme update copy
-README update from github.com
+My first readme update copy in this project
